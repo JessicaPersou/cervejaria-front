@@ -69,24 +69,9 @@ export function RegisterUser() {
   });
 
   return (
-    <div className={styles.background}>
       <div className={styles.container}>
         <div className={styles.form1}>
-          <div className={styles.custom}>
-            <img className={styles.imgLogo} src={Logo} />
-          </div>
-          <h2>Não deixe para amanhã a cerveja que você pode comprar hoje!</h2>
-          <h3>
-            Cadastre-se agora mesmo e conheça um departamento cheio de cervejas
-            com preços especiais e exclusivos.
-            <br />
-          </h3>
-          <Link className={styles.link} to="/login">
-            <ArrowLeft size={28} /> Volte para o Login.
-          </Link>
-        </div>
-        <div className={styles.form2}>
-          <Titles title={"Cadastre-se"} />
+          <h1>CADASTRE-SE</h1>
           <form onSubmit={formik.handleSubmit}>
             <div className={styles.custom}>
               <label className={styles.customLabel} htmlFor="first_name">
@@ -209,12 +194,11 @@ export function RegisterUser() {
             </div>
             <div className={styles.btn}>
               <button className={styles.btnPortal} type="submit">
-                Cadastrar
+                CADASTRAR
               </button>
             </div>
           </form>
         </div>
       </div>
-    </div>
   );
 }
