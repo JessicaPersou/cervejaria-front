@@ -1,7 +1,7 @@
 # 🍺 Cervejaria Front-End
 
-Este é o front-end do projeto **Cervejaria**, uma aplicação web desenvolvida para gerenciar e apresentar os produtos e serviços da cervejaria.
-Que foi o meu primeiro projeto de front estudando pela Rocketseat.
+Meu primeiro projeto de front estudando pela Rocketseat.
+Este é o front-end do projeto **Cervejaria**, um e-commerce de cervejas artesanais.
 
 ## Tecnologias Utilizadas
 
