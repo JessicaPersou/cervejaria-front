@@ -1,6 +1,6 @@
 # 🍺 Cervejaria Front-End
 
-Meu primeiro projeto de front estudando pela Rocketseat.
+Meu primeiro projeto de front estudando pela Rocketseat.</br>
 Este é o front-end do projeto **Cervejaria**, um e-commerce de cervejas artesanais.
 
 ## Tecnologias Utilizadas
